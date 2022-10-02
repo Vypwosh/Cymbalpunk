@@ -1,0 +1,1280 @@
+﻿Log file open, 10/02/22 22:45:40
+LogInit: Display: Running engine for game: Cymbalpunk
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176828
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Fafanapan -epicuserid=f1d6a101b13e40c6949d58c39723877d -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: D:/Engine/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.02-20.45.40:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:542][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:544][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:544][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.02-20.45.40:544][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.02-20.45.40:544][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:544][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.02-20.45.40:544][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:544][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.02-20.45.40:544][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.10.02-20.45.40:546][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.02-20.45.40:546][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.02-20.45.40:546][  0]LogHAL: Display: Platform has ~ 16 GB [17041244160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.02-20.45.40:546][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.02-20.45.40:546][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.02-20.45.40:547][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/Cymbalpunk/Saved/Config/Windows/Engine.ini]
+[2022.10.02-20.45.40:547][  0]LogInit: Computer: LAPTOP-EFBIF97D
+[2022.10.02-20.45.40:547][  0]LogInit: User: San
+[2022.10.02-20.45.40:547][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.02-20.45.40:547][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.02-20.45.40:548][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.02-20.45.40:548][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.02-20.45.40:548][  0]LogMemory: Process Physical Memory: 115.80 MB used, 115.80 MB peak
+[2022.10.02-20.45.40:548][  0]LogMemory: Process Virtual Memory: 97.38 MB used, 97.38 MB peak
+[2022.10.02-20.45.40:548][  0]LogMemory: Physical Memory: 12347.45 MB used,  3904.34 MB free, 16251.80 MB total
+[2022.10.02-20.45.40:548][  0]LogMemory: Virtual Memory: 5173.15 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2022.10.02-20.45.40:552][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.02-20.45.40:596][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.02-20.45.40:597][  0]LogInit: Using OS detected language (pl-PL).
+[2022.10.02-20.45.40:597][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.10.02-20.45.40:599][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2022.10.02-20.45.40:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2022.10.02-20.45.40:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2022.10.02-20.45.40:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2022.10.02-20.45.40:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2022.10.02-20.45.40:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2022.10.02-20.45.40:600][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2022.10.02-20.45.40:600][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2022.10.02-20.45.40:600][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.02-20.45.40:625][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.02-20.45.40:625][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.02-20.45.40:860][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.02-20.45.40:860][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.02-20.45.40:860][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.02-20.45.40:860][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.02-20.45.40:948][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (Feature Level 11_0)
+[2022.10.02-20.45.40:948][  0]LogD3D11RHI:       3962/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.02-20.45.40:970][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.10.02-20.45.40:970][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.10.02-20.45.40:973][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.02-20.45.40:973][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.02-20.45.40:973][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.10.02-20.45.40:979][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.02-20.45.40:979][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.02-20.45.40:979][  0]LogWindows: EnumDisplayDevices:
+[2022.10.02-20.45.40:979][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.10.02-20.45.40:979][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.10.02-20.45.40:979][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.10.02-20.45.40:979][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (P:0 D:0)
+[2022.10.02-20.45.40:979][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.10.02-20.45.40:979][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti with Max-Q Design
+[2022.10.02-20.45.40:979][  0]LogD3D11RHI:   Driver Version: 472.39 (internal:30.0.14.7239, unified:472.39)
+[2022.10.02-20.45.40:979][  0]LogD3D11RHI:      Driver Date: 10-13-2021
+[2022.10.02-20.45.40:979][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.10.02-20.45.41:037][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.02-20.45.41:037][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.02-20.45.41:037][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.02-20.45.41:054][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.02-20.45.41:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.02-20.45.41:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.02-20.45.41:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.02-20.45.41:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.02-20.45.41:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.02-20.45.41:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.02-20.45.41:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.02-20.45.41:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.02-20.45.41:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.02-20.45.41:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.02-20.45.41:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.02-20.45.41:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.02-20.45.41:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.02-20.45.41:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.02-20.45.41:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.02-20.45.41:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.02-20.45.41:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.02-20.45.41:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.02-20.45.41:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.02-20.45.41:487][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.02-20.45.41:496][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.02-20.45.41:557][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../UnrealProjects/Cymbalpunk/Intermediate/Shaders/WorkingDirectory/28312/).
+[2022.10.02-20.45.41:557][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/San/AppData/Local/Temp/UnrealShaderWorkingDir/4C4DEFD449B94916234D44AA5442AB38/'.
+[2022.10.02-20.45.41:558][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.02-20.45.41:558][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.02-20.45.41:558][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.02-20.45.42:188][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.02-20.45.42:234][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/San/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.10.02-20.45.42:234][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/San/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2022.10.02-20.45.42:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/Cymbalpunk/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.02-20.45.42:234][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.02-20.45.42:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/Cymbalpunk/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.02-20.45.42:234][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.02-20.45.42:243][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.02-20.45.42:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.02-20.45.42:243][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.02-20.45.42:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/San/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.02-20.45.42:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.02-20.45.42:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.02-20.45.42:289][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.02-20.45.42:290][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.02-20.45.42:314][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.10.02-20.45.42:512][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.02-20.45.42:619][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.02-20.45.42:619][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.02-20.45.42:619][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.02-20.45.42:619][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.02-20.45.42:619][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.02-20.45.42:632][  0]LogNetVersion: Cymbalpunk 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 799303986)
+[2022.10.02-20.45.42:982][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001EDC1461940), frame # 0
+[2022.10.02-20.45.42:982][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EDC13C8900), frame # 0
+[2022.10.02-20.45.42:983][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EDC13D6000), frame # 0
+[2022.10.02-20.45.43:018][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.029892 seconds
+[2022.10.02-20.45.43:021][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2022.10.02-20.45.43:021][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2022.10.02-20.45.43:021][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.02-20.45.43:361][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.02-20.45.43:389][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.02-20.45.43:485][  0]SourceControl: Source control is disabled
+[2022.10.02-20.45.43:485][  0]SourceControl: Source control is disabled
+[2022.10.02-20.45.43:490][  0]SourceControl: Source control is disabled
+[2022.10.02-20.45.43:495][  0]SourceControl: Source control is disabled
+[2022.10.02-20.45.43:505][  0]SourceControl: Source control is disabled
+[2022.10.02-20.45.43:520][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.02-20.45.43:521][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.02-20.45.43:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.02-20.45.43:839][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.02-20.45.43:839][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.02-20.45.43:894][  0]LogOcInput: OculusInput pre-init called
+[2022.10.02-20.45.43:906][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.10.02-20.45.43:906][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.10.02-20.45.43:967][  0]LogEngine: Initializing Engine...
+[2022.10.02-20.45.43:969][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.02-20.45.43:969][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.02-20.45.43:969][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.02-20.45.44:070][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.02-20.45.44:078][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.02-20.45.44:078][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EDC6508600), frame # 0
+[2022.10.02-20.45.44:078][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EDC6521940), frame # 0
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.02-20.45.44:088][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.02-20.45.44:088][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.02-20.45.44:088][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.02-20.45.44:089][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.02-20.45.44:106][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.02-20.45.44:106][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.02-20.45.44:357][  0]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.10.02-20.45.44:358][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.02-20.45.44:361][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.02-20.45.44:361][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.02-20.45.44:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.02-20.45.44:362][  0]LogInit: FAudioDevice initialized.
+[2022.10.02-20.45.44:363][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.02-20.45.44:411][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/San/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.10.02-20.45.44:411][  0]LogInit: Texture streaming: Enabled
+[2022.10.02-20.45.44:430][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.02-20.45.44:430][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.02-20.45.44:434][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.02-20.45.44:452][  0]LogInit: Transaction tracking system initialized
+[2022.10.02-20.45.44:478][  0]BlueprintLog: New page: Editor Load
+[2022.10.02-20.45.44:574][  0]LocalizationService: Localization service is disabled
+[2022.10.02-20.45.44:684][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.02-20.45.44:684][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.02-20.45.44:744][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.10.02-20.45.44:744][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.02-20.45.44:887][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Cymbalpunk/Content/' took 0.00s
+[2022.10.02-20.45.45:083][  0]SourceControl: Source control is disabled
+[2022.10.02-20.45.45:083][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.014
+[2022.10.02-20.45.45:084][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Engine/UE_4.25/FeaturePacks/StarterContent.upack)
+[2022.10.02-20.45.45:087][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.02-20.45.45:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.10.02-20.45.45:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.10.02-20.45.45:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.10.02-20.45.45:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.10.02-20.45.45:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.10.02-20.45.45:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.10.02-20.45.45:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.10.02-20.45.45:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.10.02-20.45.45:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.10.02-20.45.45:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.10.02-20.45.45:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.10.02-20.45.45:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.10.02-20.45.45:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.10.02-20.45.45:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.10.02-20.45.45:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.10.02-20.45.45:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.10.02-20.45.45:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.10.02-20.45.45:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Fire01.uasset"
+[2022.10.02-20.45.45:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.10.02-20.45.45:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.10.02-20.45.45:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.10.02-20.45.45:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Light01.uasset"
+[2022.10.02-20.45.45:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.10.02-20.45.45:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Light02.uasset"
+[2022.10.02-20.45.45:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.10.02-20.45.45:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.10.02-20.45.45:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.10.02-20.45.45:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.10.02-20.45.45:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.10.02-20.45.45:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.10.02-20.45.45:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.10.02-20.45.45:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.10.02-20.45.45:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.10.02-20.45.45:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Steam01.uasset"
+[2022.10.02-20.45.45:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.10.02-20.45.45:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.10.02-20.45.45:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.10.02-20.45.45:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.10.02-20.45.45:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.10.02-20.45.45:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.10.02-20.45.45:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.10.02-20.45.45:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.10.02-20.45.45:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.10.02-20.45.45:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.10.02-20.45.45:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.10.02-20.45.45:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.10.02-20.45.45:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.10.02-20.45.45:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.10.02-20.45.45:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.10.02-20.45.45:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.10.02-20.45.45:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.10.02-20.45.45:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.10.02-20.45.45:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.10.02-20.45.45:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.10.02-20.45.45:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.10.02-20.45.45:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.10.02-20.45.45:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Maps/StarterMap.umap"
+[2022.10.02-20.45.45:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.10.02-20.45.45:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.10.02-20.45.45:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.10.02-20.45.45:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.10.02-20.45.45:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.10.02-20.45.45:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.10.02-20.45.45:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.10.02-20.45.45:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.10.02-20.45.45:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.10.02-20.45.45:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.10.02-20.45.45:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.10.02-20.45.45:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.10.02-20.45.45:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.10.02-20.45.45:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.10.02-20.45.45:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.10.02-20.45.45:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.10.02-20.45.45:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.10.02-20.45.45:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.10.02-20.45.45:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.10.02-20.45.45:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.10.02-20.45.45:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.10.02-20.45.45:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.10.02-20.45.45:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.10.02-20.45.45:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.10.02-20.45.45:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.10.02-20.45.45:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.10.02-20.45.45:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.10.02-20.45.45:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.10.02-20.45.45:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.10.02-20.45.45:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.10.02-20.45.45:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.10.02-20.45.45:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.10.02-20.45.45:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.10.02-20.45.45:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.10.02-20.45.45:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.10.02-20.45.45:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.10.02-20.45.45:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.10.02-20.45.45:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.10.02-20.45.45:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.10.02-20.45.45:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.10.02-20.45.45:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.10.02-20.45.45:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.10.02-20.45.45:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.10.02-20.45.45:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.10.02-20.45.45:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.10.02-20.45.45:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.10.02-20.45.45:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.10.02-20.45.45:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.10.02-20.45.45:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.10.02-20.45.45:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.10.02-20.45.45:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.10.02-20.45.45:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.10.02-20.45.45:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.10.02-20.45.45:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.10.02-20.45.45:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.10.02-20.45.45:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.10.02-20.45.45:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.10.02-20.45.45:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.10.02-20.45.45:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.10.02-20.45.45:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.10.02-20.45.45:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.10.02-20.45.45:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.10.02-20.45.45:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.10.02-20.45.45:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.10.02-20.45.45:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.10.02-20.45.45:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Door.uasset"
+[2022.10.02-20.45.45:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.10.02-20.45.45:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.10.02-20.45.45:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.10.02-20.45.45:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.10.02-20.45.45:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.10.02-20.45.45:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.10.02-20.45.45:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.10.02-20.45.45:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.10.02-20.45.45:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.10.02-20.45.45:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.10.02-20.45.45:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.10.02-20.45.45:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.10.02-20.45.45:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.10.02-20.45.45:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.10.02-20.45.45:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.10.02-20.45.45:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.10.02-20.45.45:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.10.02-20.45.45:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.10.02-20.45.45:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.10.02-20.45.45:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.10.02-20.45.45:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.10.02-20.45.45:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.10.02-20.45.45:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.10.02-20.45.45:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.10.02-20.45.45:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.10.02-20.45.45:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.10.02-20.45.45:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.10.02-20.45.45:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.10.02-20.45.45:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.10.02-20.45.45:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.10.02-20.45.45:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.10.02-20.45.45:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.10.02-20.45.45:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.10.02-20.45.45:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.10.02-20.45.45:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.10.02-20.45.45:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.10.02-20.45.45:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.10.02-20.45.45:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.10.02-20.45.45:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.10.02-20.45.45:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.10.02-20.45.45:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.10.02-20.45.45:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.10.02-20.45.45:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.10.02-20.45.45:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.10.02-20.45.45:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.10.02-20.45.45:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.10.02-20.45.45:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.10.02-20.45.45:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.10.02-20.45.45:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.10.02-20.45.45:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.10.02-20.45.45:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.10.02-20.45.45:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.10.02-20.45.45:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.10.02-20.45.45:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.10.02-20.45.45:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.10.02-20.45.45:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.10.02-20.45.45:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.10.02-20.45.45:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.10.02-20.45.45:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.10.02-20.45.45:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.10.02-20.45.45:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.10.02-20.45.45:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.10.02-20.45.45:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.10.02-20.45.45:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.10.02-20.45.45:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.10.02-20.45.45:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.10.02-20.45.45:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.10.02-20.45.45:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.10.02-20.45.45:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.10.02-20.45.45:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.10.02-20.45.45:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.10.02-20.45.45:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.10.02-20.45.45:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.10.02-20.45.45:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.10.02-20.45.45:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.10.02-20.45.45:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.10.02-20.45.45:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.10.02-20.45.45:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.10.02-20.45.45:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.10.02-20.45.45:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.10.02-20.45.45:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.10.02-20.45.45:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.10.02-20.45.45:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.10.02-20.45.45:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.10.02-20.45.45:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.10.02-20.45.45:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.10.02-20.45.45:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.10.02-20.45.45:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.10.02-20.45.45:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.10.02-20.45.45:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.10.02-20.45.45:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.10.02-20.45.45:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.10.02-20.45.45:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.10.02-20.45.45:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.10.02-20.45.45:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.10.02-20.45.45:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.10.02-20.45.45:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.10.02-20.45.45:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.10.02-20.45.45:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.10.02-20.45.45:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.10.02-20.45.45:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.10.02-20.45.45:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.10.02-20.45.45:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.10.02-20.45.45:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.10.02-20.45.45:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.10.02-20.45.45:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.10.02-20.45.45:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.10.02-20.45.45:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.10.02-20.45.45:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.10.02-20.45.45:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.10.02-20.45.45:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.10.02-20.45.45:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.10.02-20.45.45:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.10.02-20.45.45:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.10.02-20.45.45:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.10.02-20.45.45:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.10.02-20.45.45:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.10.02-20.45.45:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.10.02-20.45.45:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.10.02-20.45.45:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.10.02-20.45.45:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.10.02-20.45.45:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.10.02-20.45.45:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.10.02-20.45.45:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.10.02-20.45.45:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.10.02-20.45.45:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.10.02-20.45.45:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.10.02-20.45.45:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.10.02-20.45.45:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.10.02-20.45.45:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.10.02-20.45.45:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.10.02-20.45.45:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.10.02-20.45.45:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.10.02-20.45.45:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.10.02-20.45.45:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.10.02-20.45.45:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.10.02-20.45.45:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.10.02-20.45.45:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.10.02-20.45.45:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.10.02-20.45.45:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.10.02-20.45.45:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.10.02-20.45.45:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.10.02-20.45.45:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.10.02-20.45.45:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.10.02-20.45.45:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.10.02-20.45.45:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.10.02-20.45.45:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.10.02-20.45.45:931][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.10.02-20.45.45:932][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.10.02-20.45.45:971][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.10.02-20.45.46:087][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.10.02-20.45.46:094][  0]LogSavePackage: Moving '../../../../../UnrealProjects/Cymbalpunk/Saved/Floor_400x400CB55EBD844FE7AF3E7C4259FF25E6A26.tmp' to '../../../../../UnrealProjects/Cymbalpunk/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.10.02-20.45.46:096][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.10.02-20.45.46:097][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/Cymbalpunk/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.02-20.45.46:097][  0]LightingResults: New page: Lighting Build
+[2022.10.02-20.45.46:098][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-20.45.46:098][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-20.45.46:098][  0]MapCheck: New page: Map Check
+[2022.10.02-20.45.46:098][  0]LightingResults: New page: Lighting Build
+[2022.10.02-20.45.46:108][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EDC6508600), frame # 0
+[2022.10.02-20.45.46:108][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EDC6521940), frame # 0
+[2022.10.02-20.45.46:109][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.02-20.45.46:298][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.02-20.45.46:298][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EDC696BC00), frame # 0
+[2022.10.02-20.45.46:298][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EDB91BBB00), frame # 0
+[2022.10.02-20.45.46:302][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.02-20.45.46:313][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.02-20.45.46:313][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.02-20.45.46:314][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2022.10.02-20.45.46:314][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.217
+[2022.10.02-20.45.46:316][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.248
+[2022.10.02-20.45.46:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-20.45.46:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-20.45.46:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-20.45.46:439][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-20.45.46:445][  0]LogCollectionManager: Loaded 0 collections in 0.000723 seconds
+[2022.10.02-20.45.46:459][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Cymbalpunk/Saved/Collections/' took 0.00s
+[2022.10.02-20.45.46:459][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Cymbalpunk/Content/Developers/San/Collections/' took 0.00s
+[2022.10.02-20.45.46:459][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Cymbalpunk/Content/Collections/' took 0.00s
+[2022.10.02-20.45.46:459][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3427 classes and 821 folders.
+[2022.10.02-20.45.46:461][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.02-20.45.46:535][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.02-20.45.46:536][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.10.02-20.45.46:599][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.02-20.45.46:602][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.02-20.45.46:607][  0]LogSlate: Took 0.001391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.02-20.45.46:634][  0]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1).
+[2022.10.02-20.45.46:673][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.02-20.45.46:797][  0]LogSlate: Window 'Tutorials' being destroyed
+[2022.10.02-20.45.46:807][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.02-20.45.46:807][  0]LogLoad: (Engine Initialization) Total time: 7.74 seconds
+[2022.10.02-20.45.46:807][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.02-20.45.46:827][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.10.02-20.45.46:827][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.10.02-20.45.46:849][  0]LogAssetRegistry: Asset discovery search completed in 4.5361 seconds
+[2022.10.02-20.45.46:852][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.02-20.45.46:929][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.02-20.47.40:817][ 66]LogSourceControl: Warning: '../../../../../UnrealProjects/Cymbalpunk/' is not part of a Git repository
+[2022.10.02-20.49.20:569][410]SourceControl: Error: warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+[2022.10.02-20.49.21:924][468]LogSourceControl: commit successful: [master (root-commit) eaf640d] Initial commit
+[2022.10.02-20.49.21:938][468]SourceControl: [master (root-commit) eaf640d] Initial commit
+[2022.10.02-20.49.21:938][468]SourceControl:  318 files changed, 221 insertions(+)
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Config/DefaultEditor.ini
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Config/DefaultEditorPerProjectUserSettings.ini
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Config/DefaultEngine.ini
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Config/DefaultGame.ini
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Config/DefaultInput.ini
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Geometry/Meshes/1M_Cube.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Geometry/Meshes/CubeMaterial.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Geometry/Meshes/TemplateFloor.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Floor_400x400.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Pillar_50x500.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/SM_AssetPlatform.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_400x200.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_400x300.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_400x400.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_500x500.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_Door_400x400.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_Window_400x300.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Architecture/Wall_Window_400x400.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Collapse01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Collapse02.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Collapse_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Explosion01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Explosion02.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Explosion_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Fire01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Fire01_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Fire_Sparks01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Light01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Light01_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Light02.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Light02_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Smoke01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Smoke01_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Starter_Background_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Starter_Birds01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Starter_Music01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Starter_Music_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Starter_Wind05.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Starter_Wind06.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Steam01.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Audio/Steam01_Cue.uasset
+[2022.10.02-20.49.21:938][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/Skybox.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Maps/Advanced_Lighting.umap
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Maps/Minimal_Default.umap
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Maps/StarterMap.umap
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Maps/StarterMap_BuiltData.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_AssetPlatform.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Basic_Floor.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Concrete_Grime.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Glass.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Water_Lake.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_Burst.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/Materials/m_flare_01.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/P_Explosion.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/P_Fire.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/P_Smoke.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/P_Sparks.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/MaterialSphere.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Bush.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Chair.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Door.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Frame.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Lamp.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Rock.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_Statue.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Bush.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Chair.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_CornerFrame.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Couch.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Door.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_DoorFrame.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_GlassWindow.uasset
+[2022.10.02-20.49.21:939][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_PillarFrame.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Rock.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Shelf.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Stairs.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_Statue.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_TableRound.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Props/SM_WindowFrame.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Cone.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Cube.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Cylinder.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Pipe.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Pipe_180.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Pipe_90.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Plane.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_QuadPyramid.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Sphere.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Torus.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_TriPyramid.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Trim.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Trim_90_In.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Tube.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Wedge_A.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_Wedge_B.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Shapes/Shape_WideCapsule.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Burst_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Bush_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Bush_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Chair_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Chair_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Checker_Noise_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Grime_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Door_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Door_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Dust_Particle_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Fire_SubUV.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Frame_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Frame_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Gradinet_01.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ground_Gravel_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Ground_Moss_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Lamp_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Lamp_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_MacroVariation.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Copper_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Rust_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Rust_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_RockMesh_M.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_RockMesh_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Basalt_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+[2022.10.02-20.49.21:940][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Slate_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Shelf_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Shelf_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Single_Tile_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Smoke_SubUV.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Spark_Core.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Statue_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Statue_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_TableRound_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_TableRound_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Tech_Dot_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Tech_Dot_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Tech_Panel_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Tech_Panel_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Water_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Water_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Oak_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Oak_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Pine_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Pine_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/StarterContent/Textures/T_ground_Moss_D.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/RampMaterial.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 Cymbalpunk.uproject
+[2022.10.02-20.49.21:941][468]SourceControl:  create mode 100644 README.md
+[2022.10.02-21.10.23:032][705]LogSlate: Window 'Source Control Login' being destroyed
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC4E7F42-4CA2-14EA-1242-98ADC5BF01A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=311ab6c34cbcaae4bf6c91a5207a78d9%7Cf1d6a101b13e40c6949d58c39723877d%7Ced5c71a3-5b87-4671-8826-655aa84c8b8f&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 0 (Connection 13 seems to be dead!)
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 1 (Closing connection 13)
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 4 (Closing connection 14)
+[2022.10.02-21.18.53:830][376]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC4E7F42-4CA2-14EA-1242-98ADC5BF01A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=311ab6c34cbcaae4bf6c91a5207a78d9%7Cf1d6a101b13e40c6949d58c39723877d%7Ced5c71a3-5b87-4671-8826-655aa84c8b8f&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2022.10.02-21.20.54:449][736]LogHttp: Warning: 000001EDF91C5600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC4E7F42-4CA2-14EA-1242-98ADC5BF01A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=311ab6c34cbcaae4bf6c91a5207a78d9%7Cf1d6a101b13e40c6949d58c39723877d%7Ced5c71a3-5b87-4671-8826-655aa84c8b8f&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.02-21.20.54:450][736]LogHttp: Warning: 000001EDF91C5600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.02-21.20.54:450][736]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.02-21.20.54:450][736]LogHttp: Warning: 000001EDF91C5600: libcurl info message cache 1 (Closing connection 15)
+[2022.10.02-21.20.54:450][736]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC4E7F42-4CA2-14EA-1242-98ADC5BF01A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=311ab6c34cbcaae4bf6c91a5207a78d9%7Cf1d6a101b13e40c6949d58c39723877d%7Ced5c71a3-5b87-4671-8826-655aa84c8b8f&AppEnvironment=datacollector-source&UploadType=eteventstream
